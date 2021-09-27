@@ -86,13 +86,13 @@
 .fa-ul li {
   font-size: 14px;
   font-weight: 400;
-  color: #838383;
+  color: #838383
 }
 
 .fa-ul .fa-li {
   font-size: 14px;
   font-weight: 400;
-  color: #838383;
+  color: #838383
 }
 
 .social {
@@ -126,6 +126,7 @@
 .social a .fa:hover {
   color: #000;
 }
+
 .blink {
   animation: blink-animation 1s steps(5, start) infinite;
 
